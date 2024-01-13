@@ -1,4 +1,4 @@
 # chayan-demo
 This is my first Git Repository.
 <br>
-Author - Chayan Maiti
+Author - Chayan Maiti(Demo)
